@@ -1,0 +1,5 @@
+n=input("Enter your string=")
+n.split()
+t=int(input("Enter location="))
+print(n[t])
+print(n)
