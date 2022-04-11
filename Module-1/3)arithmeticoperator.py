@@ -1,0 +1,6 @@
+a,b=map(int, input("Enter numbers respectively=").split())
+print("Sum=",a+b)
+print("Subtract=",a-b)
+print("Product=",a*b)
+print("Division=",a/b)
+print("Remainder=",a%b)
