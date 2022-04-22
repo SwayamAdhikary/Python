@@ -1,0 +1,5 @@
+f=open(r'C:\Users\sadhi\OneDrive\Desktop\Python\Module-3\story.txt','r')
+n=int(input("Enter number of lines to be read="))
+da=f.readlines(n)
+print(da)
+f.close()

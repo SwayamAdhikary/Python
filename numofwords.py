@@ -1,0 +1,5 @@
+f=open(r'C:\Users\sadhi\OneDrive\Desktop\Python\Module-3\storye.txt','r')
+da=f.read()
+print("Number of Characters=",len(da))
+ad=f.readlines()
+print("Number of lines=",len(ad))

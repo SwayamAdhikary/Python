@@ -1,0 +1,6 @@
+f=open(r'C:\Users\sadhi\OneDrive\Desktop\Python\Module-3\story.txt','r+')
+da=input("Enter text to be inputted=")
+f.write(da)
+print(da)
+at=f.read()
+print(at)
